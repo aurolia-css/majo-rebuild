@@ -1,4 +1,5 @@
-> #### *This repository is only used to update [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot) to `Discord.js v12.3.1`. The code here may contain errors and bugs, do not use it on production*
+# > Note: The code is outdated, please use [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot) instead!
+> #### *This repository was only used to update [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot) to `Discord.js v12.3.1`. The code here may contain errors and bugs, do not use it on production*
 
 # Majo.exe
 
